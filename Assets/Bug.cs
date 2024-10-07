@@ -48,7 +48,7 @@ public class Bug : MonoBehaviour
     public void UpdateVisuals()
     {
         SpriteRenderer sprite_renderer = GetComponent<SpriteRenderer>();
-        sprite_renderer.color = owner == Owner.PLAYER1 ? Color.white : Color.black;
+        sprite_renderer.color = owner == Owner.PLAYER1 ? Color.white : Color.white;
     }
 
     public void BoardUpdate()
