@@ -3,7 +3,11 @@ guid: 848ebd6f6d108b640bbbd1eb41edd111
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Hit0: {instanceID: 0}
+  - Board: {instanceID: 0}
+  - BugHome: {instanceID: 0}
+  - SquareSprite: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
