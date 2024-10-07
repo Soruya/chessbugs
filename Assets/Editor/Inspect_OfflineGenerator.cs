@@ -1,5 +1,5 @@
-using UnityEngine;
 using UnityEditor;
+using UnityEngine;
 
 [CustomEditor(typeof(OfflineGenerator))]
 public class OfflineGenerator_Inspector : Editor
